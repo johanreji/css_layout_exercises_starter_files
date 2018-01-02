@@ -10,3 +10,18 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.n1{
+	width: 300px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	float:left;
+	margin-right: 15px;
+}
+.n2{
+	width: 300px;
+	float:right;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 15px;
+}
